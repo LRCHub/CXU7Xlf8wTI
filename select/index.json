@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Darkside",
+  "base_artist": "Alan Walker、Au/Ra、Tomine Harket",
+  "createdAt": "2025-12-01T04:31:14.483566Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Darkside",
+      "artist": "Alan Walker feat. Au/Ra & Tomine Harket",
+      "has_synced": true,
+      "path": "select/01_Darkside_Alan_Walker_feat._Au_Ra_&_Tomine_Harket.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Darkside",
+      "artist": "Alan Walker, Au/Ra, Tomine Harket",
+      "has_synced": true,
+      "path": "select/02_Darkside_Alan_Walker,_Au_Ra,_Tomine_Harket.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Darkside",
+      "artist": "Alan Walker;Au/Ra;Tomine Harket",
+      "has_synced": true,
+      "path": "select/03_Darkside_Alan_Walker;Au_Ra;Tomine_Harket.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Darkside",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/04_Darkside_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Darkside Lightside",
+      "artist": "ASH",
+      "has_synced": true,
+      "path": "select/05_Darkside_Lightside_ASH.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Darkside of Aquarius",
+      "artist": "Bruce Dickinson",
+      "has_synced": true,
+      "path": "select/06_Darkside_of_Aquarius_Bruce_Dickinson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Darkside/Gone",
+      "artist": "Dr. Dre feat. Mez, Marsha Ambrosius & Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/07_Darkside_Gone_Dr._Dre_feat._Mez,_Marsha_Ambrosius_&_Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Darkside/Gone (feat. King Mez, Marsha Ambrosius & Kendrick Lamar)",
+      "artist": "Dr. Dre",
+      "has_synced": true,
+      "path": "select/08_Darkside_Gone_(feat._King_Mez,_Marsha_Ambrosius_&_Kendrick_Lamar)_Dr._Dre.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DARKSIDE BLUES",
+      "artist": "Ozzy Osbourne",
+      "has_synced": true,
+      "path": "select/09_DARKSIDE_BLUES_Ozzy_Osbourne.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Darkside",
+      "artist": "Crazy Town",
+      "has_synced": false,
+      "path": "select/10_Darkside_Crazy_Town.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Darkside (Explicit Album Version)",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/11_Darkside_(Explicit_Album_Version)_Crazy_Town.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Darkside (feat. Troy Van Leeuwen)",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/12_Darkside_(feat._Troy_Van_Leeuwen)_Crazy_Town.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Walk on the Darkside",
+      "artist": "Moonspell",
+      "has_synced": true,
+      "path": "select/13_A_Walk_on_the_Darkside_Moonspell.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "My Darkside Home",
+      "artist": "Visions of Atlantis",
+      "has_synced": true,
+      "path": "select/14_My_Darkside_Home_Visions_of_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Darkside",
+      "artist": "Vwillz",
+      "has_synced": true,
+      "path": "select/15_Darkside_Vwillz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Darkside",
+      "artist": "Vwillz",
+      "has_synced": false,
+      "path": "select/16_Darkside_Vwillz.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Welcome to the Darkside (Remastered)",
+      "artist": "Brainstorm",
+      "has_synced": false,
+      "path": "select/17_Welcome_to_the_Darkside_(Remastered)_Brainstorm.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dark Side of the Moon",
+      "artist": "SCL Project (natsuP) Feat. VanaN'Ice",
+      "has_synced": false,
+      "path": "select/pl_01_Dark_Side_of_the_Moon_SCL_Project_(natsuP)_Feat._VanaN'Ice.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "DARK SIDE",
+      "artist": "SCL Project (natsuP) Feat. VanaN'Ice",
+      "has_synced": false,
+      "path": "select/pl_02_DARK_SIDE_SCL_Project_(natsuP)_Feat._VanaN'Ice.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Darkside Of Love",
+      "artist": "SCL Project (natsuP) Feat. VanaN'Ice",
+      "has_synced": false,
+      "path": "select/pl_03_Darkside_Of_Love_SCL_Project_(natsuP)_Feat._VanaN'Ice.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Dark Side",
+      "artist": "SCL Project (natsuP) Feat. VanaN'Ice",
+      "has_synced": false,
+      "path": "select/pl_04_Dark_Side_SCL_Project_(natsuP)_Feat._VanaN'Ice.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Darkside Way",
+      "artist": "SCL Project (natsuP) Feat. VanaN'Ice",
+      "has_synced": false,
+      "path": "select/pl_05_Darkside_Way_SCL_Project_(natsuP)_Feat._VanaN'Ice.txt"
+    }
+  ]
+}
